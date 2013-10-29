@@ -61,8 +61,7 @@ namespace PressPlay.FFWD
         {
             get
             {
-                // TODO: Implement this
-                throw new NotImplementedException("Not implemented");
+                return (float)((0.212*r) + (0.7152*g) + (0.0722*g));
             }
         }
 
