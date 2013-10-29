@@ -61,7 +61,7 @@ namespace PressPlay.FFWD
         {
             get
             {
-                return (float)((0.212*r) + (0.7152*g) + (0.0722*g));
+                return (float)((0.212*r) + (0.7152*g) + (0.0722*b));
             }
         }
 
